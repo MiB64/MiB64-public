@@ -4,7 +4,18 @@
 
 # MiB64
 
-MiB64 is a free and open-source emulator for the Nintendo 64 and is a continuation/re-working  of the original Project 64 Legacy project. Legacy is written in C/C++ currently only for Windows (possible planned support for other platforms in the future).
+MiB64 is a free and open-source emulator for the Nintendo 64 and is a continuation/re-working of the original [Project64 Legacy](https://github.com/pj64team/Project64-Legacy) project. It is written in C/C++ currently only for Windows (possible planned support for other platforms in the future).
+
+At the moment, there are no binary releases available for download as besides logos, branding, etc. there haven't been any substantial changes from Project64 Legacy yet (we are however in the middle of a major core rewrite, so stay tuned for any future beta releases on the **Official MiB64 Website (https://www.mib64.net/)**. However, the source code at this stage is still open so anyone can freely make code contributions, report issues, etc. 😃
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>⚠️ ⚠️ ⚠️ ⚠️ ⚠️</h2>
+        <br>If you see any precompiled MiB64 binaries, packages, EXEs or plugins that are not listed in the Official MiB64 Website (https://www.mib64.net/) or under the "Releases" of any of the repos listed in the <a href=https://github.com/MiB64>Official MiB64 organization</a>, we advise you agaisnt using them as we cannot guarantee their safety. Unofficial releases might contain untested/work-in-progress code and improper modifications that can make the emulator crash-prone, or even be tampered with malware. BE CAREFUL! 🧐<br>
+    </summary>
+  </ul>
+</div>
 
 ## Features
 
@@ -22,8 +33,6 @@ MiB64 is a free and open-source emulator for the Nintendo 64 and is a continuati
 </p>
 
 ## Installation
-
-MiB64 - 1.0 (Beta) releases are available [here](https://github.com/mib64team/MiB64/releases).
 
 MiB64 is a Portable Emulator and all you need to do is right click and Extract Here with your preferred file archiver software to a directory of your choosing and load and use. If you do not have a installed we recommend [7-zip](https://www.7-zip.org). As 7-Zip is free software with open source.
 
@@ -63,10 +72,8 @@ Contributors are always welcome!
 - Modman - Current contributor
 
 
-
 Also see the list of [community contributors](https://github.com/mib64team/MiB64/graphs/contributors).
 
 ## 🔗 Links
 - [Website](https://www.mib64.net/)
 - [Discord](https://discord.gg/ha7HWAFE8u)
-
